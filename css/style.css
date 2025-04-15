@@ -1,12 +1,3 @@
-.bg-image {
-    background-image: url(../img/background-image.png);
-    background-color: #cccccc;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-}
-
 .pt-150{
     padding-top: 150px;
 }
