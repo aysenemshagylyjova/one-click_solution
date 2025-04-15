@@ -1,0 +1,33 @@
+.bg-image {
+    background-image: url(../img/background-image.png);
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.pt-150{
+    padding-top: 150px;
+}
+
+.pb-150{
+    padding-bottom: 150px;
+}
+
+.t-d{
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-color: rgb(0, 137, 0);
+}
+
+.gray{
+    background-color:#E4E4E4 ;
+}
+
+.circle{
+    width: 75px;
+    height: 75px; 
+    background-color: rgb(214, 255, 214);
+    display: inline-block;
+}
