@@ -16,6 +16,10 @@
     background-color:#E4E4E4 ;
 }
 
+.hello {
+    color: green;
+}
+
 .circle{
     width: 75px;
     height: 75px; 
